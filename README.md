@@ -1,19 +1,32 @@
-<img src = "0726b10b-08ec-48f9-b2f7-a1e403b65a70.jpg" width = "325px">
+<h1 align="left">Opa 👋 Tudo bem?</h1>
 
-<h1>❤ Olá, bom ter você por aqui! Sejam todos bem vindos ao meu GitHub!!</h1><br>
+###
 
-Sou apenas um simples estudante iniciante de programação!! <br>
+<p align="left">Meu nome é Adrian Fernando e sou apenas um<br> simples estudante de programação!</p>
 
-<div>
-  <p>#Aprendendo HTML, CSS e JavaScript.<br>
-  #Desejo trabalhar como engenheiro de software.</p>
-  
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">✨ Quero ser desenvolvedor Full-Stack...<br>
+  📚 Estou sempre estudando...<br>
+  🎯 Não tenho projetos por enquanto...<br>
+  🎲 além de não ter projetos, não sei programar muito bem por ainda ser iniciante...</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-</div>
-<br>
-<p>Por enquanto eu não tenho experiência na área, então estou todo a ouvidos para quem quiser dar dicas!!</p>
